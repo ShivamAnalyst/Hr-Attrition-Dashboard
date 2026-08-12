@@ -41,3 +41,6 @@ Performed end-to-end HR attrition analysis using Power BI to identify employee t
 - Recommended developing targeted retention strategies for younger employees, particularly employees in the 18–25 age group.
 - Recommended reviewing the impact of frequent business travel and exploring workload or travel-management strategies for frequently traveling employees.
 - The dashboard enables HR stakeholders to identify high-risk employee segments, monitor attrition KPIs, and support data-driven workforce planning and employee retention decisions.
+
+## Dashboard
+
