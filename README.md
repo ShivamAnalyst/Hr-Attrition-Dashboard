@@ -43,4 +43,7 @@ Performed end-to-end HR attrition analysis using Power BI to identify employee t
 - The dashboard enables HR stakeholders to identify high-risk employee segments, monitor attrition KPIs, and support data-driven workforce planning and employee retention decisions.
 
 ## Dashboard
+<img width="1280" height="722" alt="Hr_dashboard1" src="https://github.com/user-attachments/assets/a44eefc9-61d8-4b37-969e-abeebc88dc1d" />
+<img width="1281" height="721" alt="Hr_dashboard2" src="https://github.com/user-attachments/assets/ef49a21e-998d-4b04-a73e-0844f429667d" />
+
 
